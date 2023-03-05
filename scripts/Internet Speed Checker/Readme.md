@@ -7,9 +7,9 @@ This script will check your internet speed and with Download and Upload speed , 
 
 1. Install the Speedtest Package using the following command:
 
-    `pip install speedtest`
+    `pip install speedtest-cli`
 
-    Official Documentation: https://pypi.org/project/speedtest/
+    Official Documentation: https://pypi.org/project/speedtest-cli/
 
 2. Run the script 
 
@@ -28,3 +28,4 @@ ISP: Alliance Broadband Services Pvt.
 
 ## Author
 Name: [Abhishek Kushwaha](https://github.com/Abbhiishek)
+Name: [Jack Eakle](https://github.com/jaeakle)

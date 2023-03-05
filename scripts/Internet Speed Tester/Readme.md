@@ -6,9 +6,9 @@ This GUI App made with Tkinter will display your internet speed(upload and downl
 
 1. Install the Speedtest Package using the following command:
 
-    `pip install speedtest`
+    `pip install speedtest-cli`
 
-    [Learn More about speedtest library](https://pypi.org/project/speedtest/)
+    [Learn More about speedtest library](https://pypi.org/project/speedtest-cli/)
 
 2. Run the script
 
@@ -21,3 +21,4 @@ This GUI App made with Tkinter will display your internet speed(upload and downl
 ## Author
 
 Name: [Dishant Yadav](https://github.com/dishant-yadav)
+Name: [Jack Eakle](https://github.com/jaeakle)
